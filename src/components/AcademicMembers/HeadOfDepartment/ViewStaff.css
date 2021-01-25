@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  background: #50a3a2;
+  height: 200vh;
+}
+
+.login-btn {
+  text-align: center;
+}
+.input_course {
+  text-align: left;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 100%;
+}
